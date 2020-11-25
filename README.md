@@ -19,7 +19,7 @@ A partir de um Dataset de músicas que apareceram no TOP 100 da Billboard, quere
 
 ### Observação sobre os arquivos:
 
-No Git estão o DataSet("Hot_100_Audio_Features_completo"), o classificador("Projeto_2_CDADOS.ipynb"), além de um arquivo gerado pelo programa que mostra uma Árvore de Decisão do classificador, que a partir de um conversor online, foi transformado em uma imagem("Decision_tree_random.png") para mostrar no detalhamento do classificador, e duas imagens de tabelas que foram utilizadas na parte descritiva do trabalho.
+No Git estão o DataSet("Hot_100_Audio_Features_completo"), o classificador("Projeto_2_CDADOS.ipynb"), além de um arquivo gerado pelo programa que mostra uma Árvore de Decisão do classificador, que a partir de um conversor online, foi transformado em uma imagem("Decision_tree_random.png") para mostrar no detalhamento do classificador, e duas imagens de tabelas que foram utilizadas na parte descritiva do trabalho. Além de duas imagens de tabelas produzidas no excel para facilitar a visualização do nosso trabalho e melhorar a apresentação.
 
 
 ### Observação sobre os participantes:
